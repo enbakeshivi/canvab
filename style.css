@@ -7,10 +7,23 @@ a {
 }
 
 .btn-green{
-	  background-color: green !important;
+	  background-color: #28D3AB !important;
 }
 
 .section{
 	padding-top: 80px;
 	padding-bottom: 80px;
+}
+
+.container-fluid{
+	min-height: 800px;
+}
+
+.form-control{
+	border-top: 0px !important;
+	border-right: 0px !important;
+}
+i
+{
+	color: white
 }
