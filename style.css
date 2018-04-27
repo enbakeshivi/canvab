@@ -1,0 +1,16 @@
+body {
+  font: 14px;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.btn-green{
+	  background-color: green !important;
+}
+
+.section{
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
